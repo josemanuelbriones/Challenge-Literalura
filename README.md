@@ -1,4 +1,5 @@
 LiterAlura - Catálogo de Libros 📚
+
 LiterAlura es una aplicación de consola desarrollada en Java utilizando el framework Spring Boot. Su objetivo es interactuar con la API de Gutendex para buscar libros por título, procesar los datos JSON y almacenarlos en una base de datos relacional para su posterior consulta y análisis estadístico.
 
 🚀 Características
